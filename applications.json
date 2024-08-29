@@ -1,0 +1,1562 @@
+[
+	{
+		"Id": 1,
+		"ApplicationName": "Camtasia",
+		"ProcessName": "Camtasia.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 2,
+		"ApplicationName": "Snagit",
+		"ProcessName": "Snagit32.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 3,
+		"ApplicationName": "OBS Studio",
+		"ProcessName": "obs64.exe",
+		"Platform": "Windows, MacOS, Linux"
+	},
+	{
+		"Id": 4,
+		"ApplicationName": "Bandicam",
+		"ProcessName": "bdcam.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 5,
+		"ApplicationName": "ShareX",
+		"ProcessName": "ShareX.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 6,
+		"ApplicationName": "Greenshot",
+		"ProcessName": "Greenshot.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 7,
+		"ApplicationName": "Windows Snipping Tool",
+		"ProcessName": "SnippingTool.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 8,
+		"ApplicationName": "ScreenFlow",
+		"ProcessName": "ScreenFlow.exe",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 9,
+		"ApplicationName": "Movavi Screen Recorder",
+		"ProcessName": "ScreenRecorder.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 10,
+		"ApplicationName": "Loom",
+		"ProcessName": "Loom.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 11,
+		"ApplicationName": "QuickTime Player",
+		"ProcessName": "QuickTimePlayer.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 12,
+		"ApplicationName": "ScreenHunter",
+		"ProcessName": "ScreenHunter.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 13,
+		"ApplicationName": "Movavi Video Editor",
+		"ProcessName": "MovaviVideoEditor.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 14,
+		"ApplicationName": "CamStudio",
+		"ProcessName": "CamStudio.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 15,
+		"ApplicationName": "Icecream Screen Recorder",
+		"ProcessName": "ScreenRecorder.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 16,
+		"ApplicationName": "TechSmith Capture",
+		"ProcessName": "TechSmithSnagit32.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 17,
+		"ApplicationName": "Windows Game Bar",
+		"ProcessName": "GameBar.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 18,
+		"ApplicationName": "LightShot",
+		"ProcessName": "Lightshot.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 19,
+		"ApplicationName": "Monosnap",
+		"ProcessName": "Monosnap.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 20,
+		"ApplicationName": "Jing",
+		"ProcessName": "Jing.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 21,
+		"ApplicationName": "Snipping Tool++",
+		"ProcessName": "SnippingToolPlusPlus.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 22,
+		"ApplicationName": "Nimbus Screenshot",
+		"ProcessName": "NimbusScreenshot.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 23,
+		"ApplicationName": "Debut Video Capture",
+		"ProcessName": "Debut.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 24,
+		"ApplicationName": "Apowersoft Free Online Screen Recorder",
+		"ProcessName": "ApowersoftOnlineScreenRecorder.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 25,
+		"ApplicationName": "Screencast-O-Matic",
+		"ProcessName": "Screencast-O-Matic.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 26,
+		"ApplicationName": "Ezvid",
+		"ProcessName": "Ezvid.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 27,
+		"ApplicationName": "TinyTake",
+		"ProcessName": "TinyTake.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 28,
+		"ApplicationName": "PicPick",
+		"ProcessName": "picpick.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 29,
+		"ApplicationName": "Movavi Screen Capture Studio",
+		"ProcessName": "ScreenCaptureStudio.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 30,
+		"ApplicationName": "Screenpresso",
+		"ProcessName": "Screenpresso.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 31,
+		"ApplicationName": "CamScanner",
+		"ProcessName": "CamScanner.exe",
+		"Platform": "Windows, MacOS, Android"
+	},
+	{
+		"Id": 32,
+		"ApplicationName": "Fraps",
+		"ProcessName": "Fraps.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 33,
+		"ApplicationName": "Action!",
+		"ProcessName": "Action.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 34,
+		"ApplicationName": "Ashampoo Snap",
+		"ProcessName": "AshampooSnap.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 35,
+		"ApplicationName": "Shutter",
+		"ProcessName": "shutter.exe",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 36,
+		"ApplicationName": "HyperSnap",
+		"ProcessName": "HprSnap7.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 37,
+		"ApplicationName": "FastStone Capture",
+		"ProcessName": "FSCapture.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 38,
+		"ApplicationName": "ClipGrab",
+		"ProcessName": "clipgrab.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 39,
+		"ApplicationName": "SmartCapture",
+		"ProcessName": "SmartCapture.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 40,
+		"ApplicationName": "LightCam",
+		"ProcessName": "LightCam.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 41,
+		"ApplicationName": "Capto",
+		"ProcessName": "Capto.exe",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 42,
+		"ApplicationName": "Droplr",
+		"ProcessName": "Droplr.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 43,
+		"ApplicationName": "Movavi Photo Editor",
+		"ProcessName": "MovaviPhotoEditor.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 44,
+		"ApplicationName": "Camtasia for Mac",
+		"ProcessName": "Camtasia.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 45,
+		"ApplicationName": "LICEcap",
+		"ProcessName": "LICEcap.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 46,
+		"ApplicationName": "Snipping Tool",
+		"ProcessName": "SnippingTool.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 47,
+		"ApplicationName": "Kap",
+		"ProcessName": "Kap.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 48,
+		"ApplicationName": "My Screen Recorder",
+		"ProcessName": "myscreenrecorder.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 49,
+		"ApplicationName": "FireShot",
+		"ProcessName": "fireshot.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 50,
+		"ApplicationName": "Movavi Video Suite",
+		"ProcessName": "VideoSuite.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 51,
+		"ApplicationName": "Apowersoft Screen Recorder",
+		"ProcessName": "ApowersoftScreenRecorder.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 52,
+		"ApplicationName": "Epic Pen",
+		"ProcessName": "Epic Pen.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 53,
+		"ApplicationName": "Jing Pro",
+		"ProcessName": "JingPro.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 54,
+		"ApplicationName": "CamScanner for Android",
+		"ProcessName": "CamScanner.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 55,
+		"ApplicationName": "LightShot for Mac",
+		"ProcessName": "Lightshot.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 56,
+		"ApplicationName": "ClipGrab for Mac",
+		"ProcessName": "ClipGrab.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 57,
+		"ApplicationName": "TinyTake for Mac",
+		"ProcessName": "TinyTake.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 58,
+		"ApplicationName": "Movavi Screen Recorder for Mac",
+		"ProcessName": "ScreenRecorder.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 59,
+		"ApplicationName": "Monosnap for Mac",
+		"ProcessName": "Monosnap.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 60,
+		"ApplicationName": "Screencast-O-Matic for Mac",
+		"ProcessName": "Screencast-O-Matic.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 61,
+		"ApplicationName": "CamStudio for Mac",
+		"ProcessName": "CamStudio.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 62,
+		"ApplicationName": "Debut Video Capture for Mac",
+		"ProcessName": "Debut.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 63,
+		"ApplicationName": "Snagit for Mac",
+		"ProcessName": "Snagit.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 64,
+		"ApplicationName": "Camtasia for Mac",
+		"ProcessName": "Camtasia.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 65,
+		"ApplicationName": "ScreenFlow for Mac",
+		"ProcessName": "ScreenFlow.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 66,
+		"ApplicationName": "Apowersoft Screen Recorder for Mac",
+		"ProcessName": "ApowersoftScreenRecorder.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 67,
+		"ApplicationName": "Loom for Mac",
+		"ProcessName": "Loom.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 68,
+		"ApplicationName": "Screenpresso for Mac",
+		"ProcessName": "Screenpresso.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 69,
+		"ApplicationName": "QuickTime Player for Windows",
+		"ProcessName": "QuickTimePlayer.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 70,
+		"ApplicationName": "HyperSnap for Mac",
+		"ProcessName": "HprSnap7.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 71,
+		"ApplicationName": "FastStone Capture for Mac",
+		"ProcessName": "FSCapture.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 72,
+		"ApplicationName": "Ezvid for Mac",
+		"ProcessName": "Ezvid.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 73,
+		"ApplicationName": "ScreenHunter for Mac",
+		"ProcessName": "ScreenHunter.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 74,
+		"ApplicationName": "TechSmith Capture for Mac",
+		"ProcessName": "TechSmithSnagit32.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 75,
+		"ApplicationName": "Apowersoft Free Online Screen Recorder for Mac",
+		"ProcessName": "ApowersoftOnlineScreenRecorder.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 76,
+		"ApplicationName": "CamScanner for iOS",
+		"ProcessName": "CamScanner.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 77,
+		"ApplicationName": "LightShot for iOS",
+		"ProcessName": "Lightshot.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 78,
+		"ApplicationName": "ClipGrab for iOS",
+		"ProcessName": "ClipGrab.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 79,
+		"ApplicationName": "TinyTake for iOS",
+		"ProcessName": "TinyTake.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 80,
+		"ApplicationName": "Movavi Screen Recorder for iOS",
+		"ProcessName": "ScreenRecorder.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 81,
+		"ApplicationName": "Monosnap for iOS",
+		"ProcessName": "Monosnap.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 82,
+		"ApplicationName": "Screencast-O-Matic for iOS",
+		"ProcessName": "Screencast-O-Matic.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 83,
+		"ApplicationName": "CamStudio for iOS",
+		"ProcessName": "CamStudio.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 84,
+		"ApplicationName": "Debut Video Capture for iOS",
+		"ProcessName": "Debut.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 85,
+		"ApplicationName": "Snagit for iOS",
+		"ProcessName": "Snagit.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 86,
+		"ApplicationName": "Camtasia for iOS",
+		"ProcessName": "Camtasia.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 87,
+		"ApplicationName": "ScreenFlow for iOS",
+		"ProcessName": "ScreenFlow.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 88,
+		"ApplicationName": "Apowersoft Screen Recorder for iOS",
+		"ProcessName": "ApowersoftScreenRecorder.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 89,
+		"ApplicationName": "Loom for iOS",
+		"ProcessName": "Loom.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 90,
+		"ApplicationName": "Screenpresso for iOS",
+		"ProcessName": "Screenpresso.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 91,
+		"ApplicationName": "QuickTime Player for iOS",
+		"ProcessName": "QuickTimePlayer.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 92,
+		"ApplicationName": "HyperSnap for iOS",
+		"ProcessName": "HprSnap7.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 93,
+		"ApplicationName": "FastStone Capture for iOS",
+		"ProcessName": "FSCapture.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 94,
+		"ApplicationName": "Ezvid for iOS",
+		"ProcessName": "Ezvid.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 95,
+		"ApplicationName": "ScreenHunter for iOS",
+		"ProcessName": "ScreenHunter.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 96,
+		"ApplicationName": "TechSmith Capture for iOS",
+		"ProcessName": "TechSmithSnagit32.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 97,
+		"ApplicationName": "Apowersoft Free Online Screen Recorder for iOS",
+		"ProcessName": "ApowersoftOnlineScreenRecorder.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 98,
+		"ApplicationName": "CamScanner for Android",
+		"ProcessName": "CamScanner.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 99,
+		"ApplicationName": "LightShot for Android",
+		"ProcessName": "Lightshot.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 100,
+		"ApplicationName": "ClipGrab for Android",
+		"ProcessName": "ClipGrab.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 101,
+		"ApplicationName": "TinyTake for Android",
+		"ProcessName": "TinyTake.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 102,
+		"ApplicationName": "Movavi Screen Recorder for Android",
+		"ProcessName": "ScreenRecorder.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 103,
+		"ApplicationName": "Monosnap for Android",
+		"ProcessName": "Monosnap.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 104,
+		"ApplicationName": "Screencast-O-Matic for Android",
+		"ProcessName": "Screencast-O-Matic.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 105,
+		"ApplicationName": "CamStudio for Android",
+		"ProcessName": "CamStudio.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 106,
+		"ApplicationName": "Debut Video Capture for Android",
+		"ProcessName": "Debut.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 107,
+		"ApplicationName": "Snagit for Android",
+		"ProcessName": "Snagit.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 108,
+		"ApplicationName": "Camtasia for Android",
+		"ProcessName": "Camtasia.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 109,
+		"ApplicationName": "ScreenFlow for Android",
+		"ProcessName": "ScreenFlow.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 110,
+		"ApplicationName": "Apowersoft Screen Recorder for Android",
+		"ProcessName": "ApowersoftScreenRecorder.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 111,
+		"ApplicationName": "Loom for Android",
+		"ProcessName": "Loom.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 112,
+		"ApplicationName": "Screenpresso for Android",
+		"ProcessName": "Screenpresso.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 113,
+		"ApplicationName": "QuickTime Player for Android",
+		"ProcessName": "QuickTimePlayer.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 114,
+		"ApplicationName": "HyperSnap for Android",
+		"ProcessName": "HprSnap7.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 115,
+		"ApplicationName": "FastStone Capture for Android",
+		"ProcessName": "FSCapture.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 116,
+		"ApplicationName": "Ezvid for Android",
+		"ProcessName": "Ezvid.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 117,
+		"ApplicationName": "ScreenHunter for Android",
+		"ProcessName": "ScreenHunter.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 118,
+		"ApplicationName": "TechSmith Capture for Android",
+		"ProcessName": "TechSmithSnagit32.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 119,
+		"ApplicationName": "Apowersoft Free Online Screen Recorder for Android",
+		"ProcessName": "ApowersoftOnlineScreenRecorder.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 120,
+		"ApplicationName": "CamScanner for Windows",
+		"ProcessName": "CamScanner.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 121,
+		"ApplicationName": "LightShot for Windows",
+		"ProcessName": "Lightshot.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 122,
+		"ApplicationName": "ClipGrab for Windows",
+		"ProcessName": "ClipGrab.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 123,
+		"ApplicationName": "TinyTake for Windows",
+		"ProcessName": "TinyTake.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 124,
+		"ApplicationName": "Movavi Screen Recorder for Windows",
+		"ProcessName": "ScreenRecorder.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 125,
+		"ApplicationName": "Monosnap for Windows",
+		"ProcessName": "Monosnap.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 126,
+		"ApplicationName": "Screencast-O-Matic for Windows",
+		"ProcessName": "Screencast-O-Matic.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 127,
+		"ApplicationName": "CamStudio for Windows",
+		"ProcessName": "CamStudio.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 128,
+		"ApplicationName": "Debut Video Capture for Windows",
+		"ProcessName": "Debut.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 129,
+		"ApplicationName": "Snagit for Windows",
+		"ProcessName": "Snagit.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 130,
+		"ApplicationName": "Camtasia for Windows",
+		"ProcessName": "Camtasia.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 131,
+		"ApplicationName": "ScreenFlow for Windows",
+		"ProcessName": "ScreenFlow.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 132,
+		"ApplicationName": "Apowersoft Screen Recorder for Windows",
+		"ProcessName": "ApowersoftScreenRecorder.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 133,
+		"ApplicationName": "Loom for Windows",
+		"ProcessName": "Loom.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 134,
+		"ApplicationName": "Screenpresso for Windows",
+		"ProcessName": "Screenpresso.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 135,
+		"ApplicationName": "QuickTime Player for MacOS",
+		"ProcessName": "QuickTimePlayer.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 136,
+		"ApplicationName": "HyperSnap for Windows",
+		"ProcessName": "HprSnap7.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 137,
+		"ApplicationName": "FastStone Capture for Windows",
+		"ProcessName": "FSCapture.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 138,
+		"ApplicationName": "ClipGrab for MacOS",
+		"ProcessName": "ClipGrab.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 139,
+		"ApplicationName": "SmartCapture",
+		"ProcessName": "SmartCapture.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 140,
+		"ApplicationName": "LightCam",
+		"ProcessName": "LightCam.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 141,
+		"ApplicationName": "Capto",
+		"ProcessName": "Capto.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 142,
+		"ApplicationName": "Droplr",
+		"ProcessName": "Droplr.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 143,
+		"ApplicationName": "Movavi Photo Editor",
+		"ProcessName": "MovaviPhotoEditor.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 144,
+		"ApplicationName": "Camtasia for MacOS",
+		"ProcessName": "Camtasia.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 145,
+		"ApplicationName": "LICEcap",
+		"ProcessName": "LICEcap.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 146,
+		"ApplicationName": "Snipping Tool",
+		"ProcessName": "SnippingTool.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 147,
+		"ApplicationName": "Kap",
+		"ProcessName": "Kap.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 148,
+		"ApplicationName": "My Screen Recorder",
+		"ProcessName": "myscreenrecorder.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 149,
+		"ApplicationName": "FireShot",
+		"ProcessName": "fireshot.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 150,
+		"ApplicationName": "Movavi Video Suite",
+		"ProcessName": "VideoSuite.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 151,
+		"ApplicationName": "Apowersoft Video Converter Studio",
+		"ProcessName": "ApowersoftVideoConverterStudio.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 152,
+		"ApplicationName": "Dxtory",
+		"ProcessName": "dxtory.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 153,
+		"ApplicationName": "Gyazo",
+		"ProcessName": "Gyazo.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 154,
+		"ApplicationName": "CamScanner for Linux",
+		"ProcessName": "CamScanner.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 155,
+		"ApplicationName": "LightShot for Linux",
+		"ProcessName": "Lightshot.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 156,
+		"ApplicationName": "ClipGrab for Linux",
+		"ProcessName": "ClipGrab.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 157,
+		"ApplicationName": "TinyTake for Linux",
+		"ProcessName": "TinyTake.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 158,
+		"ApplicationName": "Movavi Screen Recorder for Linux",
+		"ProcessName": "ScreenRecorder.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 159,
+		"ApplicationName": "Monosnap for Linux",
+		"ProcessName": "Monosnap.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 160,
+		"ApplicationName": "Screencast-O-Matic for Linux",
+		"ProcessName": "Screencast-O-Matic.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 161,
+		"ApplicationName": "CamStudio for Linux",
+		"ProcessName": "CamStudio.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 162,
+		"ApplicationName": "Debut Video Capture for Linux",
+		"ProcessName": "Debut.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 163,
+		"ApplicationName": "Snagit for Linux",
+		"ProcessName": "Snagit.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 164,
+		"ApplicationName": "Camtasia for Linux",
+		"ProcessName": "Camtasia.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 165,
+		"ApplicationName": "ScreenFlow for Linux",
+		"ProcessName": "ScreenFlow.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 166,
+		"ApplicationName": "Apowersoft Screen Recorder for Linux",
+		"ProcessName": "ApowersoftScreenRecorder.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 167,
+		"ApplicationName": "Loom for Linux",
+		"ProcessName": "Loom.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 168,
+		"ApplicationName": "Screenpresso for Linux",
+		"ProcessName": "Screenpresso.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 169,
+		"ApplicationName": "QuickTime Player for Android",
+		"ProcessName": "QuickTimePlayer.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 170,
+		"ApplicationName": "HyperSnap for Linux",
+		"ProcessName": "HprSnap7.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 171,
+		"ApplicationName": "FastStone Capture for Linux",
+		"ProcessName": "FSCapture.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 172,
+		"ApplicationName": "ClipGrab for Android",
+		"ProcessName": "ClipGrab.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 173,
+		"ApplicationName": "SmartCapture for Linux",
+		"ProcessName": "SmartCapture.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 174,
+		"ApplicationName": "LightCam for Linux",
+		"ProcessName": "LightCam.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 175,
+		"ApplicationName": "Capto for Linux",
+		"ProcessName": "Capto.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 176,
+		"ApplicationName": "Droplr for Linux",
+		"ProcessName": "Droplr.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 177,
+		"ApplicationName": "Movavi Photo Editor for Linux",
+		"ProcessName": "MovaviPhotoEditor.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 178,
+		"ApplicationName": "Camtasia for Linux",
+		"ProcessName": "Camtasia.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 179,
+		"ApplicationName": "LICEcap for Linux",
+		"ProcessName": "LICEcap.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 180,
+		"ApplicationName": "Snipping Tool for Linux",
+		"ProcessName": "SnippingTool.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 181,
+		"ApplicationName": "Kap for Linux",
+		"ProcessName": "Kap.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 182,
+		"ApplicationName": "My Screen Recorder for Linux",
+		"ProcessName": "myscreenrecorder.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 183,
+		"ApplicationName": "FireShot for Linux",
+		"ProcessName": "fireshot.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 184,
+		"ApplicationName": "Movavi Video Suite for Linux",
+		"ProcessName": "VideoSuite.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 185,
+		"ApplicationName": "Apowersoft Video Converter Studio for Linux",
+		"ProcessName": "ApowersoftVideoConverterStudio.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 186,
+		"ApplicationName": "Dxtory for Linux",
+		"ProcessName": "dxtory.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 187,
+		"ApplicationName": "Gyazo for Linux",
+		"ProcessName": "Gyazo.deb",
+		"Platform": "Linux"
+	},
+	{
+		"Id": 188,
+		"ApplicationName": "CamScanner for iOS",
+		"ProcessName": "CamScanner.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 189,
+		"ApplicationName": "LightShot for iOS",
+		"ProcessName": "Lightshot.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 190,
+		"ApplicationName": "ClipGrab for iOS",
+		"ProcessName": "ClipGrab.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 191,
+		"ApplicationName": "TinyTake for iOS",
+		"ProcessName": "TinyTake.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 192,
+		"ApplicationName": "Movavi Screen Recorder for iOS",
+		"ProcessName": "ScreenRecorder.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 193,
+		"ApplicationName": "Monosnap for iOS",
+		"ProcessName": "Monosnap.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 194,
+		"ApplicationName": "Screencast-O-Matic for iOS",
+		"ProcessName": "Screencast-O-Matic.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 195,
+		"ApplicationName": "CamStudio for iOS",
+		"ProcessName": "CamStudio.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 196,
+		"ApplicationName": "Debut Video Capture for iOS",
+		"ProcessName": "Debut.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 197,
+		"ApplicationName": "Snagit for iOS",
+		"ProcessName": "Snagit.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 198,
+		"ApplicationName": "Camtasia for iOS",
+		"ProcessName": "Camtasia.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 199,
+		"ApplicationName": "ScreenFlow for iOS",
+		"ProcessName": "ScreenFlow.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 200,
+		"ApplicationName": "Apowersoft Screen Recorder for iOS",
+		"ProcessName": "ApowersoftScreenRecorder.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 201,
+		"ApplicationName": "Loom for iOS",
+		"ProcessName": "Loom.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 202,
+		"ApplicationName": "Screenpresso for iOS",
+		"ProcessName": "Screenpresso.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 203,
+		"ApplicationName": "QuickTime Player for iOS",
+		"ProcessName": "QuickTimePlayer.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 204,
+		"ApplicationName": "HyperSnap for iOS",
+		"ProcessName": "HprSnap7.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 205,
+		"ApplicationName": "FastStone Capture for iOS",
+		"ProcessName": "FSCapture.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 206,
+		"ApplicationName": "Ezvid for iOS",
+		"ProcessName": "Ezvid.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 207,
+		"ApplicationName": "ScreenHunter for iOS",
+		"ProcessName": "ScreenHunter.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 208,
+		"ApplicationName": "TechSmith Capture for iOS",
+		"ProcessName": "TechSmithSnagit32.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 209,
+		"ApplicationName": "Apowersoft Free Online Screen Recorder for iOS",
+		"ProcessName": "ApowersoftOnlineScreenRecorder.app",
+		"Platform": "iOS"
+	},
+	{
+		"Id": 210,
+		"ApplicationName": "CamScanner for Android",
+		"ProcessName": "CamScanner.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 211,
+		"ApplicationName": "LightShot for Android",
+		"ProcessName": "Lightshot.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 212,
+		"ApplicationName": "ClipGrab for Android",
+		"ProcessName": "ClipGrab.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 213,
+		"ApplicationName": "TinyTake for Android",
+		"ProcessName": "TinyTake.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 214,
+		"ApplicationName": "Movavi Screen Recorder for Android",
+		"ProcessName": "ScreenRecorder.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 215,
+		"ApplicationName": "Monosnap for Android",
+		"ProcessName": "Monosnap.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 216,
+		"ApplicationName": "Screencast-O-Matic for Android",
+		"ProcessName": "Screencast-O-Matic.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 217,
+		"ApplicationName": "CamStudio for Android",
+		"ProcessName": "CamStudio.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 218,
+		"ApplicationName": "Debut Video Capture for Android",
+		"ProcessName": "Debut.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 219,
+		"ApplicationName": "Snagit for Android",
+		"ProcessName": "Snagit.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 220,
+		"ApplicationName": "Camtasia for Android",
+		"ProcessName": "Camtasia.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 221,
+		"ApplicationName": "ScreenFlow for Android",
+		"ProcessName": "ScreenFlow.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 222,
+		"ApplicationName": "Apowersoft Screen Recorder for Android",
+		"ProcessName": "ApowersoftScreenRecorder.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 223,
+		"ApplicationName": "Loom for Android",
+		"ProcessName": "Loom.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 224,
+		"ApplicationName": "Screenpresso for Android",
+		"ProcessName": "Screenpresso.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 225,
+		"ApplicationName": "QuickTime Player for Android",
+		"ProcessName": "QuickTimePlayer.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 226,
+		"ApplicationName": "HyperSnap for Android",
+		"ProcessName": "HprSnap7.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 227,
+		"ApplicationName": "FastStone Capture for Android",
+		"ProcessName": "FSCapture.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 228,
+		"ApplicationName": "Ezvid for Android",
+		"ProcessName": "Ezvid.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 229,
+		"ApplicationName": "ScreenHunter for Android",
+		"ProcessName": "ScreenHunter.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 230,
+		"ApplicationName": "TechSmith Capture for Android",
+		"ProcessName": "TechSmithSnagit32.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 231,
+		"ApplicationName": "Apowersoft Free Online Screen Recorder for Android",
+		"ProcessName": "ApowersoftOnlineScreenRecorder.apk",
+		"Platform": "Android"
+	},
+	{
+		"Id": 232,
+		"ApplicationName": "CamScanner for Windows",
+		"ProcessName": "CamScanner.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 233,
+		"ApplicationName": "LightShot for Windows",
+		"ProcessName": "Lightshot.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 234,
+		"ApplicationName": "ClipGrab for Windows",
+		"ProcessName": "ClipGrab.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 235,
+		"ApplicationName": "TinyTake for Windows",
+		"ProcessName": "TinyTake.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 236,
+		"ApplicationName": "Movavi Screen Recorder for Windows",
+		"ProcessName": "ScreenRecorder.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 237,
+		"ApplicationName": "Monosnap for Windows",
+		"ProcessName": "Monosnap.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 238,
+		"ApplicationName": "Screencast-O-Matic for Windows",
+		"ProcessName": "Screencast-O-Matic.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 239,
+		"ApplicationName": "CamStudio for Windows",
+		"ProcessName": "CamStudio.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 240,
+		"ApplicationName": "Debut Video Capture for Windows",
+		"ProcessName": "Debut.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 241,
+		"ApplicationName": "Snagit for Windows",
+		"ProcessName": "Snagit.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 242,
+		"ApplicationName": "Camtasia for Windows",
+		"ProcessName": "Camtasia.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 243,
+		"ApplicationName": "ScreenFlow for Windows",
+		"ProcessName": "ScreenFlow.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 244,
+		"ApplicationName": "Apowersoft Screen Recorder for Windows",
+		"ProcessName": "ApowersoftScreenRecorder.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 245,
+		"ApplicationName": "Loom for Windows",
+		"ProcessName": "Loom.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 246,
+		"ApplicationName": "Screenpresso for Windows",
+		"ProcessName": "Screenpresso.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 247,
+		"ApplicationName": "QuickTime Player for MacOS",
+		"ProcessName": "QuickTimePlayer.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 248,
+		"ApplicationName": "HyperSnap for Windows",
+		"ProcessName": "HprSnap7.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 249,
+		"ApplicationName": "FastStone Capture for Windows",
+		"ProcessName": "FSCapture.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 250,
+		"ApplicationName": "ClipGrab for MacOS",
+		"ProcessName": "ClipGrab.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 251,
+		"ApplicationName": "SmartCapture",
+		"ProcessName": "SmartCapture.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 252,
+		"ApplicationName": "LightCam",
+		"ProcessName": "LightCam.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 253,
+		"ApplicationName": "Capto",
+		"ProcessName": "Capto.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 254,
+		"ApplicationName": "Droplr",
+		"ProcessName": "Droplr.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 255,
+		"ApplicationName": "Movavi Photo Editor",
+		"ProcessName": "MovaviPhotoEditor.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 256,
+		"ApplicationName": "Camtasia for MacOS",
+		"ProcessName": "Camtasia.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 257,
+		"ApplicationName": "LICEcap",
+		"ProcessName": "LICEcap.exe",
+		"Platform": "Windows, MacOS"
+	},
+	{
+		"Id": 258,
+		"ApplicationName": "Snipping Tool",
+		"ProcessName": "SnippingTool.exe",
+		"Platform": "Windows"
+	},
+	{
+		"Id": 259,
+		"ApplicationName": "Kap",
+		"ProcessName": "Kap.app",
+		"Platform": "MacOS"
+	},
+	{
+		"Id": 260,
+		"ApplicationName": "My Screen Recorder",
+		"ProcessName": "myscreenrecorder.exe",
+		"Platform": "Windows"
+	}
+]
